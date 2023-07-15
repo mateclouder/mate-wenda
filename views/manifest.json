@@ -1,0 +1,17 @@
+{
+    "scope": "/",
+    "name": "流域",
+    "short_name": "流域",
+    "start_url": "/",
+    "display": "standalone",
+    "description": "流域",
+    "lang": "cn",
+    "orientation": "portrait",
+    "theme_color": "#70B7FD",
+    "background_color": "#fff",
+    "icons": [{
+        "src": "log.png",
+        "sizes": "144x144",
+        "type": "image/png"
+    }]
+}
